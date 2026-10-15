@@ -915,9 +915,9 @@ const services: SeedService[] = [
   {
     id: "svc-poetik",
     category_id: "cat-it",
-    name: "sysadmin.pt — Marco Garcês",
-    details: "System Administration, Networks, Domotics, Servers — local company",
-    url: "https://sysadmin.pt",
+    name: "Poetik Penguin — Marco Garcês",
+    details: "Networks, Domotics, Servers, System Administration — local company",
+    url: "https://poetikpenguin.com",
   },
   // Repair
   {
